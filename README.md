@@ -55,6 +55,6 @@ The project can be enhanced by adding sales forecasting, customer segmentation, 
 3. Visualisation & Analysis: Trends and relationships are visualised using bar charts, line plots, scatter plots, and heatmaps.
 4. Interpretation: Insights are derived from the analysis to understand business performance and support decision-making.
 
-Results
+## Results
 
 Visualisations and summary statistics provide insights into sales trends, regional performance, category-wise performance, seasonality, and the relationship between sales, profit, and discounts.
