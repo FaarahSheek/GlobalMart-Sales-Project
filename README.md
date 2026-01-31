@@ -41,3 +41,9 @@ Yes. Sales displayed clear seasonal patterns, with higher sales toward the end o
 3. How can this project be improved?
 
 The project can be enhanced by adding sales forecasting, customer segmentation, profit margin analysis, and interactive dashboards.
+
+### Project Structure
+
+ **Notebook:** AutomatedBrainTumorClassificationviaCNNs.ipynb - all code from data processing to evaluation.
+ 
+**README.md:** Project instructions and documentation.
