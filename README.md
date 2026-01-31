@@ -44,6 +44,17 @@ The project can be enhanced by adding sales forecasting, customer segmentation, 
 
 ### Project Structure
 
- **Notebook:** AutomatedBrainTumorClassificationviaCNNs.ipynb - all code from data processing to evaluation.
+ **Notebook:** globalmartsalesproject.ipynb - all code from data processing to evaluation.
  
 **README.md:** Project instructions and documentation.
+
+### Key Steps
+
+1. Data Preprocessing: The dataset is loaded, cleaned, and prepared by handling missing values and converting date columns for analysis.
+2. Data Exploration: Sales, profit, and discount data are analysed across product categories, regions, and time periods.
+3. Visualisation & Analysis: Trends and relationships are visualised using bar charts, line plots, scatter plots, and heatmaps.
+4. Interpretation: Insights are derived from the analysis to understand business performance and support decision-making.
+
+Results
+
+Visualisations and summary statistics provide insights into sales trends, regional performance, category-wise performance, seasonality, and the relationship between sales, profit, and discounts.
