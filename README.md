@@ -16,5 +16,28 @@ It transforms raw sales data into actionable insights by revealing trends, relat
 Through this project, I learned how to clean and explore datasets, perform time-based and regional analysis, create effective visualisations, and interpret findings from a business and analytical perspective.
 
 
-## Overview
-This project conducts an in-depth analysis of GlobalMart’s sales performance (2012–2015) to identify trends across regions, product categories,  and time periods, and assess factors influencing sales and profitability
+## Overview:
+
+
+This project analyses GlobalMart’s sales data using Exploratory Data Analysis (EDA) techniques to uncover trends and patterns across multiple business dimensions:
+
+- Product Categories
+- Regions
+- Time Periods
+- Sales, Profit, and Discounts
+
+The analysis supports data-driven decision-making by providing insights into sales performance, profitability, and seasonal behaviour.
+
+### Commonly asked questions
+
+1. Which tools and libraries were used?
+
+The analysis was performed using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Statsmodels.
+
+2. Did you observe any seasonal trends?
+
+Yes. Sales displayed clear seasonal patterns, with higher sales toward the end of the year and lower sales in the early months.
+
+3. How can this project be improved?
+
+The project can be enhanced by adding sales forecasting, customer segmentation, profit margin analysis, and interactive dashboards.
